@@ -2,5 +2,7 @@ Welcome my project portfolio page. You will find different projects of mine that
 
 Content:
 -Data Manipulation with SQL(Movie Database Management)
+
 -Data Manipulation with SQL(Murder Case Report)
+
 -Data Visualization with Tableau(North American HIV Report)
